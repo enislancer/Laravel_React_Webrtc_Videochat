@@ -1,9 +1,3 @@
-## Video Chat Application Example
-
-[Youtube Tutorial link](https://www.youtube.com/watch?v=5pnsloZzYQM)
-
-This project is made for my youtube tutorial on "Create a video Chat Application with Laravel & ReactJS (based on WebRTC)".
-
 ## get it up and running.
 
 After you clone this project, do the following:
@@ -35,3 +29,4 @@ npm run watch
 ```
 
 Good Luck :)
+Eliran...
